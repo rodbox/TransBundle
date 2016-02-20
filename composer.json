@@ -1,0 +1,22 @@
+{
+    "name": "rodbox/rodboxtrans",
+    "version": "0.1",
+    "description": "trans pour RB en version Alpha",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "keywords": ["rodbox","trans","symfony"],
+    "homepage": "https://github.com/rodbox/transbundle",
+    "require": {
+        "symfony/symfony": "3.0.*",
+        "rodbox/rodbox":"dev-master"
+    },
+    "authors": [
+        {
+            "name": "Jacquemin Rodolphe",
+            "email": "jacquemin.rodolphe@hotmail.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "RB\\TransBundle\\": "" }
+    }
+}

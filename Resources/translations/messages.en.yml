@@ -1,0 +1,11 @@
+label:
+    UserBusinessName: Business name
+    UserCP: CP
+    UserFirstname: Firstname
+    UserLastname: Lastname
+    UserCity: City
+    UserTel: Phone number
+    UserSkype: Skype
+
+route:
+    fos_user_registration_register: Register

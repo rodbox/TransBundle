@@ -1,0 +1,429 @@
+action:
+    new: Nouveau
+    connect: Se connecter
+    click_here: Cliquez içi
+    register: Créer un compte
+    signin: Se connecter
+    search: Rechercher
+    product_search: Rechercher un produit...
+    logout: Se déconnecter
+    create: Nouveau
+    see_all: Voir tout les produits
+    order: Commander
+    add: Ajouter
+    del: Supprimer
+    cart:
+        add: Ajouter au panier
+        del: Supprimer du panier
+    catalog_download: Télécharger le catalogue
+    change: Modifier
+    back_list: Retour à la liste
+    see:
+        product_details: Voir la fiche détaillée
+    response: Répondre
+    enter: Saisir
+    calculate: Calculer
+    save: Enregistrer
+    explode: Explode
+    filter: Filtrer
+    list: Liste
+    browse: Parcourir
+    drag_file: Déposer vos fichiers
+    upload: Upload
+    next: Suivant
+    convert: Convertir
+    valid: Valider
+    select: Sélectionner
+    select_all: Tout selectionner
+    select-all: Tout selectionner
+    select-clear: Tout déselectionner
+    select-toggle: Inverser la sélection
+    loop: Boucler
+    focus: Focus
+    delete: Supprimer
+    hydrate: Hydrater
+    play: Lire
+msg:
+    login:
+        required: Vous devez être connecter.
+    havent_account: Vous n'avez pas de compte ?
+    have_account: Vous avez déja un compte ?
+    log_required: Vous devez être connecter pour voir les prix
+    buying_continue: Continer mes achats
+    valid_order: Valider ma commande
+    last_product: Les derniers Produits
+    search_by_brand: Par marques
+    cart: Panier
+    or: ou
+    from: à
+    at: le
+    number: numéro
+    page: Page
+    compatibility: Produits compatibles :
+    next_page: Page suivante
+    service: Services
+    choose_model: Choisir mon modèle téléphone :
+    choose_repair: Choisir ma réparation :
+    choose_brand: Choisir la marque de mon téléphone :
+    message: message
+    shoporder: Commandes
+    social: Social
+    register:
+        title: Inscription
+        success: Merci Votre Inscription est bien validé !
+    contact:
+        title: Contact
+        info: Merci %name% ! Nous vous répondrons sous 24h.
+    perso: Particulier
+    buisness: Entreprise
+    mail_pw: Email & Mot de passe
+    perso_info: Information personnel
+    services: Services
+    support: Support
+    question: Question
+    products: Products
+    order_valid:
+        title: Ma commande
+        info: Votre commande est pris en compte
+    order:
+        success: Merci pour votre commande et votre confiance !
+    remember: Se souvenir de moi
+    import:
+        step_1: "Séléctionner le fichier à importer ou l'uploader"
+        step_2: Séléctionner ou créer la règle de conversion
+        step_3: "Validé l'echantillon d'importation"
+        step_4: Importation des données
+    file: Fichier
+    description: Déscription
+label:
+    UserBusinessName: Nom de l'entreprise
+    username: Nom d'utilisateur
+    password: Mot de passe
+    plainPassword:
+        first: Mot de passe
+        second: Vérification mot de passe
+    UserCP: Code postal
+    UserFirstname: Prénom
+    UserLastname: Nom
+    UserCity: Ville
+    UserTel: Téléphone
+    UserAdress: Adresse
+    UserSkype: Skype
+    UserType: Vous êtes ?
+    adress: Adresse
+    cp: Code postal
+    city: Ville
+    brand: Marque
+    name: Nom
+    qt: Quantité
+    price: Prix
+    ref: Ref
+    weight: Poids
+    unitprice: Prix unitaire
+    total: Total
+    actions: Actions
+    action: Action
+    category: Catégories
+    cart: Panier
+    invoice: Facture
+    tel: Tel
+    catalog: Catalogue
+    compatibility_list: Produits Compatibles
+    name: Nom
+    subject: Sujet
+    message: Message
+    status: Status
+    datetime: Date
+    datetimeSend: Date
+    id: id
+    do: Status
+    subject: Sujet
+    file: Fichier
+    Datedeposit: Date de la prise en charge
+    Name: Nom
+    Firstname: Prénom
+    firstname: Prénom
+    Lastname: Nom de famille
+    lastname: Nom de famille
+    Tel: Téléphone
+    Mail: Email
+    mail: Email
+    Email: Email
+    email: Email
+    Code: Code
+    Clean: Etat
+    Access: Accessoires
+    Tech: Technicien
+    Price: Prix
+    Fix: Réparation
+    Description: Déscription
+    Brand: Marque
+    Model: Modèle
+    string: Chaine
+    code: Code de sécurité
+    code.secure: Code de sécurité
+    fix: Réparation
+    clean: Etat
+    tech: Technicien
+    access: Accessoires
+    model: Modèle
+    history: Historique
+    upload_wait: "File d'attente"
+    rules: Règles de conversion
+    filter:
+        xls: "filter : xls"
+        img: "filter : img"
+        def: "filter : def"
+        pdf: "filter : pdf"
+        imports: "formats d'import compatible"
+    rule_pointer: Créer un Pointer
+
+helper:
+    label:
+        UserBusinessName: Nom de l'entreprise
+        username: Nom d'utilisateur
+        password: Mot de passe
+        plainPassword:
+            first: Mot de passe
+            second: Vérification mot de passe
+        UserCP: Code postal
+        UserFirstname: Prénom
+        UserLastname: Nom
+        UserCity: Ville
+        UserTel: Téléphone
+        UserAdress: Adresse
+        UserSkype: Skype
+        UserType: Vous êtes ?
+        adress: Adresse
+        cp: Code postal
+        city: Ville
+        name: Nom
+        qt: Quantité
+        ref: Ref
+        weight: Poids
+        unitprice: Prix unitaire
+        total: Total
+        actions: Actions
+        action: Action
+        category: Catégories
+        cart: Panier
+        invoice: Facture
+        tel: Téléphone du client
+        catalog: Catalogue
+        compatibility_list: Produits Compatibles
+        name: Nom
+        subject: Sujet
+        message: Message
+        status: Status
+        datetime: Date
+        datetimeSend: Date
+        id: id
+        do: Status
+        subject: Sujet
+        file: Fichier
+        Datedeposit: Date de la prise en charge
+        Name: Nom
+        Firstname: Prénom
+        firstname: Prénom du client
+        Lastname: Nom de famille
+        lastname: Nom de famille du client
+        Tel: Téléphone
+        Mail: Email du client
+        mail: Email du client
+        Email: Email du client
+        email: Email du client
+        Code: Code
+        Clean: "Etat de l'appareil"
+        Access: Accessoires
+        Tech: Nom du Technicien
+        Price: Prix de la préstation
+        price: Prix de la préstation
+        Fix: Réparations à effectuer
+        fix: Réparations à effectuer
+        Description: Déscription
+        description: Remarque particulière
+        Brand: "Marque de l'appareil"
+        brand: "Marque de l'appareil"
+        Model: "Modèle de l'appareil"
+        model: "Modèle de l'appareil"
+        string: Chaine
+        code: Code de sécurité
+        code.secure: "Le code de sécurité de l'appareil"
+        clean: "Etat de l'appareil"
+        tech: Nom du Technicien
+        access: Les accessoires fournis
+        model: Le Modèle
+        filter:
+            xls: "<ul><li>xls</li><li>csv</li></ul>"
+            imports: "<ul><li>xls</li><li>csv</li><li>json</li></ul>"
+            img: "<ul><li>png</li><li>jpg</li><li>jpeg</li><li>gif</li></ul>"
+            def: "<ul><li>*</li></ul>"
+            pdf: "<ul><li>pdf</li></ul>"
+
+
+route:
+    fos_user_registration_register: Inscription
+    fos_user_security_login: Connexion
+    rb_front_homepage: Accueil
+    rb_cart_add: Panier
+    rb_cart_homepage: Panier
+    rb_product_search: Resultat :
+    rb_product_all: Tout les produits
+    rb_product_compatibility: Produits compatibles :
+    rb_product_show: Produit :
+    rb_product_compatibility_product: Produits compatibles :
+    rb_manage_homepage: Tableau de bord
+    rb_service_manage_service: Les services
+    rb_service_manage_service_create: Créer un service
+    rb_front_service: Choisir ma répartion
+    rb_shop_default_index:
+        title: Accueil
+    brand_index:
+        title: Marques
+    brand_new:
+        title: Créer Marque
+    brand_edit:
+        title: Editer Marque
+    brand_show:
+        title: Voir Marque
+    category_index:
+        title: Catégories
+    category_new:
+        title: Créer Catégorie
+    category_edit:
+        title: Editer Catégorie
+    category_show:
+        title: Voir Catégorie
+    invoice_import:
+        title: Import facture
+    product_index:
+        title: Produits
+    shop_index:
+        title: Tableau de bord
+    stock_export:
+        title: Export des stocks
+    product_edit:
+        title: Editer Produits
+    product_show:
+        title: Voir Produit
+    product_new:
+        title: Créer Produit
+    product_index:
+        title: Produits
+    tools_parse:
+        title: Parse
+    fix_index:
+        title: Réparations En cours
+    fix_new:
+        title: Déclancher une réparations
+    fix_edit:
+        title: Editer une réparations
+    fix_show:
+        title: Voir une réparations
+    fixlist_index:
+        title: Type de Réparations
+    fixlist_new:
+        title: Créer Type de Réparations
+    fixlist_edit:
+        title: Editer Type de Réparations
+    fixlist_delete:
+        title: Supprimer Type de Réparations
+    fixavailable_index:
+        title: Réparations Disponibles
+    fixavailable_new:
+        title: Créer Réparations Disponibles
+    fixavailable_edit:
+        title: Editer Réparations Disponibles
+    fixavailable_delete:
+        title: Supprimer Réparations Disponibles
+    rb_import:
+        title: Importation
+    notes_index:
+        title: Notes
+    notes_save:
+        title: Enregistrer la notes
+    magic_setter:
+        title: Magic Setter
+    attributevalue_index:
+        title: Valeur d'attribut
+    attribute_index:
+        title: Attribut
+    keywords_index:
+        title: Mot clés
+    keywords_new:
+        title: Créer Mot clés
+    keywords_edit:
+        title: Editer Mot clés
+    keywords_delete:
+        title: Supprimer Mot clés
+    orders:
+        title: Commandes
+    orders_index:
+        title: Commandes
+    orders_new:
+        title: Créer Commandes
+    orders_edit:
+        title: Editer Commandes
+    orders_delete:
+        title: Supprimer Commandes
+    fix_wait:
+        title: Réparations
+    fos_user_security_logout:
+        title: Se déconnecter
+    explorer:
+        title: Fichiers
+    post_create:
+        title: Créer
+    post_index:
+        title: Blog
+    post_del:
+        title: Supprimer
+    blog_front_index:
+        title: Blog
+    post_new:
+        title: Nouveau
+    post_show:
+        title: Blog
+    post_edit:
+        title: Edition
+
+
+
+
+menu:
+    LCD: LCD
+    Tactile: Tactile
+    Pi\u00e8ces d\u00e9tach\u00e9es: Pièces détachées
+    Nappe: Nappe
+    Connecteur de charge: Connecteur de charge
+    Connecteur de batterie: Connecteur de batterie
+    Lecteur carte sim: Lecteur carte sim
+    Buzzer + Haut parleur: Buzzer + Haut parleur
+    Bouton ext\u00e9rieur: Bouton extèrieur
+    Pi\u00e8ce m\u00e9canique: Pièce mécanique
+    Double Face: Double Face
+    Batterie: Batterie
+    Vis: Vis
+    Cache arri\u00e8re: Cache arrière
+    Accessoires:: Accessoires
+    Housse \u00c9tui: Housse étui
+    Film de protection: Film de protection
+    C\u00e2ble & Connectique: Câble & Connectique
+    Kit pi\u00e9ton: Kit piéton
+    Chargeur: Chargeur
+    Support: Support
+    Carte Mémoire: Carte Mémoire
+    Outils: Outils
+    new: Nouveau
+    files: Fichier
+    select: Selection
+    export: Exporter
+p:
+    ref: Ref
+    name: Nom
+    price: Prix
+service:
+    tech_dom: Technicien a domicile ou au bureau
+    in_shop: En magasin
+    steed: Par Coursier
+    postal: Par voie postale (Poste, UPS, ...)
