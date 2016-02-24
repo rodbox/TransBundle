@@ -44,6 +44,7 @@ action:
     hydrate: Hydrater
     play: Lire
 msg:
+    welcome: Bienvenue
     login:
         required: Vous devez être connecter.
     havent_account: Vous n'avez pas de compte ?
@@ -386,6 +387,8 @@ route:
         title: Blog
     post_edit:
         title: Edition
+    rb_input:
+        title: Admin Input
 
 
 
