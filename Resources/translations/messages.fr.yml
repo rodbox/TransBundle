@@ -44,9 +44,11 @@ action:
     hydrate: Hydrater
     play: Lire
 msg:
+    title: Titre
     welcome: Bienvenue
     login:
         required: Vous devez être connecter.
+        title: Se connecter
     havent_account: Vous n'avez pas de compte ?
     have_account: Vous avez déja un compte ?
     log_required: Vous devez être connecter pour voir les prix
@@ -96,6 +98,8 @@ msg:
         step_4: Importation des données
     file: Fichier
     description: Déscription
+    setting: Paramètres
+    forget_pw: Mot de passe oublier
 label:
     UserBusinessName: Nom de l'entreprise
     username: Nom d'utilisateur
