@@ -8,7 +8,7 @@
     "homepage": "https://github.com/rodbox/transbundle",
     "require": {
         "symfony/symfony": "3.0.*",
-        "rodbox/rodbox":"dev-master"
+        "rodbox/rodboxcore":"dev-master"
     },
     "authors": [
         {
