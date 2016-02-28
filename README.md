@@ -1,6 +1,6 @@
 # RBTransBundle :
 
-Trans pour RB en version Alphass
+Trans pour RB en version Alphas
 
 ## routing :
 ```

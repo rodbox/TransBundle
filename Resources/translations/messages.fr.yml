@@ -425,10 +425,12 @@ menu:
     files: Fichier
     select: Selection
     export: Exporter
+    open: Ouvrir
 p:
     ref: Ref
     name: Nom
     price: Prix
+
 service:
     tech_dom: Technicien a domicile ou au bureau
     in_shop: En magasin
