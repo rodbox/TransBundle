@@ -43,6 +43,7 @@ action:
     delete: Supprimer
     hydrate: Hydrater
     play: Lire
+    show_all: Voir tout
 msg:
     title: Titre
     welcome: Bienvenue
@@ -100,7 +101,13 @@ msg:
     description: Déscription
     setting: Paramètres
     forget_pw: Mot de passe oublier
+    curl_me: Téléchargement Url
 label:
+    attribute: Attribut
+    attributevalue: Valeur d'attribut
+    value: Value
+    product: Produit
+    category: Catégorie
     UserBusinessName: Nom de l'entreprise
     username: Nom d'utilisateur
     password: Mot de passe
@@ -182,6 +189,9 @@ label:
         pdf: "filter : pdf"
         imports: "formats d'import compatible"
     rule_pointer: Créer un Pointer
+    active: Active
+    compatible: Compatible
+    suggest: Suggestion
 
 helper:
     label:
@@ -281,6 +291,8 @@ route:
     rb_service_manage_service: Les services
     rb_service_manage_service_create: Créer un service
     rb_front_service: Choisir ma répartion
+    front_index:
+        title: Acceuil
     rb_shop_default_index:
         title: Accueil
     brand_index:
@@ -375,6 +387,8 @@ route:
         title: Réparations
     fos_user_security_logout:
         title: Se déconnecter
+    fos_user_profile_edit:
+        title: Mon profile
     explorer:
         title: Fichiers
     post_create:
@@ -393,6 +407,10 @@ route:
         title: Edition
     rb_input:
         title: Admin Input
+    attribute_new:
+        title: Créer un attribut
+    attributevalue_new:
+        title: Créer une valeur d'attribut
 
 
 
