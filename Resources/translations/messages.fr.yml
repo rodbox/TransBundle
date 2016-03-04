@@ -44,6 +44,8 @@ action:
     hydrate: Hydrater
     play: Lire
     show_all: Voir tout
+    addAttribute: Ajouter un attribut
+    addValue: Créer une valeur
 msg:
     title: Titre
     welcome: Bienvenue
