@@ -107,7 +107,10 @@ msg:
 label:
     attribute: Attribut
     attributevalue: Valeur d'attribut
-    value: Value
+    value: Valeur
+    group: Groupe
+    upddate: Mis à Jour
+    updby: par
     product: Produit
     category: Catégorie
     UserBusinessName: Nom de l'entreprise
@@ -390,7 +393,7 @@ route:
     fos_user_security_logout:
         title: Se déconnecter
     fos_user_profile_edit:
-        title: Mon profile
+        title: Mon profil
     explorer:
         title: Fichiers
     post_create:
@@ -413,6 +416,18 @@ route:
         title: Créer un attribut
     attributevalue_new:
         title: Créer une valeur d'attribut
+    admin_index:
+        title: Dashboard
+    fix_admin:
+        title: Réparations
+    setting_index:
+        title: Paramètres
+    setting_new:
+        title: Créer Paramètre
+    setting_edit:
+        title: Editer Paramètre
+    setting_delete:
+        title: Supprimer Paramètre
 
 
 
