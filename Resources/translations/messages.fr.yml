@@ -1,4 +1,5 @@
 action:
+    submit: Envoyer
     new: Nouveau
     connect: Se connecter
     click_here: Cliquez içi
@@ -31,6 +32,7 @@ action:
     drag_file: Déposer vos fichiers
     upload: Upload
     next: Suivant
+    previous: Précedent
     convert: Convertir
     valid: Valider
     select: Sélectionner
@@ -46,7 +48,11 @@ action:
     show_all: Voir tout
     addAttribute: Ajouter un attribut
     addValue: Créer une valeur
+    fix: Fixer
 msg:
+    link: Lien
+    route: Route
+    folder: Dossier
     title: Titre
     welcome: Bienvenue
     login:
@@ -104,7 +110,13 @@ msg:
     setting: Paramètres
     forget_pw: Mot de passe oublier
     curl_me: Téléchargement Url
+    del: Supprimer ?
 label:
+    meta: Méta
+    menu: Menu
+    description: Déscription
+    role: Role
+    param: Paramètre
     attribute: Attribut
     attributevalue: Valeur d'attribut
     value: Valeur
@@ -197,6 +209,9 @@ label:
     active: Active
     compatible: Compatible
     suggest: Suggestion
+    barcode: Code Barre
+    init: Initialisation
+    info: Informations
 
 helper:
     label:
@@ -428,6 +443,20 @@ route:
         title: Editer Paramètre
     setting_delete:
         title: Supprimer Paramètre
+    menu_index:
+        title: Menu
+    menu_new:
+        title: Créer Menu
+    menu_edit:
+        title: Editer Menu
+    menu_delete:
+        title: Supprimer Menu
+    bower_index:
+        title: Bower / GitHub
+    bower_combo:
+        title: Combo
+    bower_create_init:
+        title: Créer une initialisation
 
 
 
