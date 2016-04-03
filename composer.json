@@ -1,14 +1,18 @@
 {
-    "name": "rodbox/rodboxtrans",
+    "name": "rodbox\/rodboxtrans",
     "version": "0.1",
     "description": "trans pour RB en version Alpha",
     "license": "MIT",
     "type": "symfony-bundle",
-    "keywords": ["rodbox","trans","symfony"],
-    "homepage": "https://github.com/rodbox/transbundle",
+    "keywords": [
+        "rodbox",
+        "trans",
+        "symfony"
+    ],
+    "homepage": "https:\/\/github.com\/rodbox\/transbundle",
     "require": {
-        "symfony/symfony": "3.0.*",
-        "rodbox/rodboxcore":"dev-master"
+        "symfony\/symfony": "3.0.*",
+        "rodbox\/rodboxcore": "dev-master"
     },
     "authors": [
         {
@@ -17,6 +21,9 @@
         }
     ],
     "autoload": {
-        "psr-4": { "RB\\TransBundle\\": "" }
-    }
+        "psr-4": {
+            "RB\\TransBundle\\": ""
+        }
+    },
+    "minimum-stability": "dev"
 }

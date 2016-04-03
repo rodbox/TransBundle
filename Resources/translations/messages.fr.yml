@@ -49,6 +49,10 @@ action:
     addAttribute: Ajouter un attribut
     addValue: Créer une valeur
     fix: Fixer
+    show: Voir
+    sort: Trier
+    entermail: Entrer votre adresse Email
+    signup: S'inscrire
 msg:
     link: Lien
     route: Route
@@ -111,7 +115,10 @@ msg:
     forget_pw: Mot de passe oublier
     curl_me: Téléchargement Url
     del: Supprimer ?
+    subscribe: Inscrivez-vous
+    discount: Réduction
 label:
+    newsletter: Newsletter
     meta: Méta
     menu: Menu
     description: Déscription
@@ -212,6 +219,13 @@ label:
     barcode: Code Barre
     init: Initialisation
     info: Informations
+    contact: Contact
+    about: A propos
+    terms: Conditions Générale
+    faq: FAQ
+    account: Mon compte
+    price: Prix
+    to: à
 
 helper:
     label:
@@ -457,6 +471,16 @@ route:
         title: Combo
     bower_create_init:
         title: Créer une initialisation
+    rb_shop_wishlist:
+        title: Ma selection
+    rb_shop_cart:
+        title: Panier
+    rb_shop_checkout:
+        title: Commander
+    rb_shop_account:
+        title: Mon compte
+    p_index:
+        title: Produits
 
 
 
