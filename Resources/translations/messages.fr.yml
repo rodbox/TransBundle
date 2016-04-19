@@ -53,6 +53,7 @@ action:
     sort: Trier
     entermail: Entrer votre adresse Email
     signup: S'inscrire
+    connect: Connextion
 msg:
     link: Lien
     route: Route
@@ -118,6 +119,7 @@ msg:
     subscribe: Inscrivez-vous
     discount: Réduction
 label:
+    verif: Vérification
     newsletter: Newsletter
     meta: Méta
     menu: Menu
@@ -226,6 +228,7 @@ label:
     account: Mon compte
     price: Prix
     to: à
+    dateUpd: Mis à jour
 
 helper:
     label:
@@ -311,20 +314,34 @@ helper:
 
 
 route:
-    fos_user_registration_register: Inscription
-    fos_user_security_login: Connexion
-    rb_front_homepage: Accueil
-    rb_cart_add: Panier
-    rb_cart_homepage: Panier
-    rb_product_search: Resultat :
-    rb_product_all: Tout les produits
-    rb_product_compatibility: Produits compatibles :
-    rb_product_show: Produit :
-    rb_product_compatibility_product: Produits compatibles :
-    rb_manage_homepage: Tableau de bord
-    rb_service_manage_service: Les services
-    rb_service_manage_service_create: Créer un service
-    rb_front_service: Choisir ma répartion
+    fos_user_registration_register:
+        title: Inscription
+    fos_user_security_login:
+        title: Connexion
+    rb_front_homepage:
+        title: Accueil
+    rb_cart_add:
+        title: Panier
+    rb_cart_homepage:
+        title: Panier
+    rb_product_search:
+        title: Resultat :
+    rb_product_all:
+        title: Tout les produits
+    rb_product_compatibility:
+        title: Produits compatibles :
+    rb_product_show:
+        title: Produit :
+    rb_product_compatibility_product:
+        title: Produits compatibles :
+    rb_manage_homepage:
+        title: Tableau de bord
+    rb_service_manage_service:
+        title: Les services
+    rb_service_manage_service_create:
+        title: Créer un service
+    rb_front_service:
+        title: Choisir ma répartion
     front_index:
         title: Acceuil
     rb_shop_default_index:
@@ -481,6 +498,14 @@ route:
         title: Mon compte
     p_index:
         title: Produits
+    menu_create:
+        title: Créer un menu
+    dev:
+        title: Développement
+    page_index:
+        title: Les pages
+    page_edit:
+        title: Editer Page
 
 
 
