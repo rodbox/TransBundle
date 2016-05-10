@@ -148,6 +148,7 @@ label:
     UserAdress: Adresse
     UserSkype: Skype
     UserType: Vous êtes ?
+    UserCountry: Pays
     adress: Adresse
     cp: Code postal
     city: Ville
@@ -229,6 +230,7 @@ label:
     price: Prix
     to: à
     dateUpd: Mis à jour
+    dateCreate: Création
 
 helper:
     label:
@@ -311,7 +313,6 @@ helper:
             img: "<ul><li>png</li><li>jpg</li><li>jpeg</li><li>gif</li></ul>"
             def: "<ul><li>*</li></ul>"
             pdf: "<ul><li>pdf</li></ul>"
-
 
 route:
     fos_user_registration_register:
