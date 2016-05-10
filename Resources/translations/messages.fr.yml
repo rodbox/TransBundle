@@ -508,7 +508,14 @@ route:
         title: Les pages
     page_edit:
         title: Editer Page
-
+    compatibility_index:
+        title: Produit compatible
+    compatibility_new:
+        title: Créer un produit compatible
+    compatibility_delete:
+        title: supprimer un produit compatible
+    compatibility_edit:
+        title: Editer un produit compatible
 
 
 
