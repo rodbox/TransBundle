@@ -326,15 +326,15 @@ route:
     rb_cart_homepage:
         title: Panier
     rb_product_search:
-        title: Resultat :
+        title: 'Resultat :'
     rb_product_all:
         title: Tout les produits
     rb_product_compatibility:
-        title: Produits compatibles :
+        title: 'Produits compatibles :'
     rb_product_show:
-        title: Produit :
+        title: 'Produit :'
     rb_product_compatibility_product:
-        title: Produits compatibles :
+        title: 'Produits compatibles :'
     rb_manage_homepage:
         title: Tableau de bord
     rb_service_manage_service:
