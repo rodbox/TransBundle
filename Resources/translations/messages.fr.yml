@@ -53,7 +53,8 @@ action:
     sort: Trier
     entermail: Entrer votre adresse Email
     signup: S'inscrire
-    connect: Connextion
+    connect: Connexion
+    follow_fix: Suivre ma réparation
 msg:
     link: Lien
     route: Route
