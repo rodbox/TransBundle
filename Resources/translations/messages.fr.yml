@@ -232,6 +232,7 @@ label:
     to: à
     dateUpd: Mis à jour
     dateCreate: Création
+    color: Couleurs
 
 helper:
     label:
