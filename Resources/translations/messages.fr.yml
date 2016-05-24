@@ -234,6 +234,7 @@ label:
     dateUpd: Mis à jour
     dateCreate: Création
     color: Couleurs
+    customer: Client
 
 helper:
     label:
