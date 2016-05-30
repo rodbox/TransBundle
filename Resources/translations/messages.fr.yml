@@ -1,4 +1,6 @@
+
 action:
+    backnav: Retour
     submit: Envoyer
     new: Nouveau
     connect: Se connecter
