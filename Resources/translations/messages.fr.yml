@@ -244,6 +244,7 @@ label:
     invoiceCp: Code postal de facturation
     invoiceCity: Ville de facturation
     invoice_same_adress: Même adresse de facturation
+    invoice_detail: Coordonée de facturation
 
 
 helper:
