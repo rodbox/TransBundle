@@ -139,6 +139,7 @@ label:
     product: Produit
     category: Catégorie
     UserBusinessName: Nom de l'entreprise
+    businessname: Nom de l'entreprise
     username: Nom d'utilisateur
     password: Mot de passe
     plainPassword:
@@ -169,7 +170,7 @@ label:
     category: Catégories
     cart: Panier
     invoice: Facture
-    tel: Tel
+    tel: Téléphone
     catalog: Catalogue
     compatibility_list: Produits Compatibles
     name: Nom
@@ -237,6 +238,12 @@ label:
     dateCreate: Création
     color: Couleurs
     customer: Client
+    country: Pays
+    invoice_country: Pays de facturation
+    invoice_adress: Adresse de facturation
+    invoice_cp: Code postal de facturation
+    invoice_city: Ville de facturation
+
 
 helper:
     label:
