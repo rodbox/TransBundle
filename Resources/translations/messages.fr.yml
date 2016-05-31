@@ -239,10 +239,11 @@ label:
     color: Couleurs
     customer: Client
     country: Pays
-    invoice_country: Pays de facturation
-    invoice_adress: Adresse de facturation
-    invoice_cp: Code postal de facturation
-    invoice_city: Ville de facturation
+    invoiceCountry: Pays de facturation
+    invoiceAdress: Adresse de facturation
+    invoiceCp: Code postal de facturation
+    invoiceCity: Ville de facturation
+    invoice_same_adress: Même adresse de facturation
 
 
 helper:
