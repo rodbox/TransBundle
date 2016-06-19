@@ -255,6 +255,8 @@ label:
     product: Produit
     invoice_detail: Coordonnées de facturation
     price_suggest: Prix suggérés
+    photo: Photo
+    img: Image
 
 helper:
     label:
