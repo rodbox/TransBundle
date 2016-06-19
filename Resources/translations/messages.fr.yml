@@ -1,5 +1,10 @@
 
 action:
+    addCart: Ajouter au panier
+    removeCart: Enlever du panier
+    edit: Editer
+    back: Retour
+    back: Retour
     backnav: Retour
     submit: Envoyer
     new: Nouveau
@@ -245,7 +250,11 @@ label:
     invoiceCity: Ville de facturation
     invoice_same_adress: Même adresse de facturation
     invoice_detail: Coordonée de facturation
-
+    color: Couleur
+    user: Utilisateur
+    product: Produit
+    invoice_detail: Coordonnées de facturation
+    price_suggest: Prix suggérés
 
 helper:
     label:
