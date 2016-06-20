@@ -63,6 +63,7 @@ action:
     connect: Connexion
     follow_fix: Suivre ma réparation
     sortable: Ordonner
+    send: Envoyer
 msg:
     back_front: Retour à l'accueil
     link: Lien
