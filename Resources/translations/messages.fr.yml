@@ -62,6 +62,7 @@ action:
     signup: S'inscrire
     connect: Connexion
     follow_fix: Suivre ma réparation
+    sortable: Ordonner
 msg:
     back_front: Retour à l'accueil
     link: Lien
