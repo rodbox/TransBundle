@@ -65,6 +65,7 @@ action:
     sortable: Ordonner
     send: Envoyer
     reply: Répondre
+    confirm: Confirmer
 msg:
     back_front: Retour à l'accueil
     link: Lien
