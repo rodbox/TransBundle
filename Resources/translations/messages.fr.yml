@@ -261,6 +261,11 @@ label:
     price_suggest: Prix suggérés
     photo: Photo
     img: Image
+    source: Source
+    Status: Status
+    Codebar: Code barre
+    Datereturn: Date de retour
+    Datevalid: Date de validation
 
 helper:
     label:
