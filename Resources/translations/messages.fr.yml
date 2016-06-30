@@ -267,6 +267,9 @@ label:
     Datereturn: Date de retour
     Datevalid: Date de validation
     Device: Appareil
+    Ref: Ref
+    Datetime: Date
+    History: Historique
 
 helper:
     label:
