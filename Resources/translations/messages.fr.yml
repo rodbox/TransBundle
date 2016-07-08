@@ -561,6 +561,8 @@ route:
         title: Imporater pièces détachées
     spare_index:
         title: Pièces détachées
+    alert_form:
+        title: Créer une alerte
 
 menu:
     LCD: LCD
