@@ -557,8 +557,10 @@ route:
         title: supprimer un produit compatible
     compatibility_edit:
         title: Editer un produit compatible
-
-
+    spare_import:
+        title: Imporater pièces détachées
+    spare_index:
+        title: Pièces détachées
 
 menu:
     LCD: LCD
