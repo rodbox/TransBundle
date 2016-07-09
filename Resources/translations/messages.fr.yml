@@ -273,6 +273,18 @@ label:
     Datetime: Date
     History: Historique
     need: Besoin
+    os: OS
+    storage: Capacité
+    ram: RAM
+    simdouble: Double SIM
+    sd: Carte SD
+    4g: 4G
+    gps: GPS
+    wifi: WiFi
+    bluetooth: Bluetooth
+    photo: Photo
+    flash: Flash
+    weight: Poids
 
 helper:
     label:
