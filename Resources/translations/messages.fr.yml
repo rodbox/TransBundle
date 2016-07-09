@@ -285,6 +285,8 @@ label:
     photo: Photo
     flash: Flash
     weight: Poids
+    spare: Pièces détachées
+    product_compatible: Produits Compatibles
 
 helper:
     label:
