@@ -287,6 +287,8 @@ label:
     weight: Poids
     spare: Pièces détachées
     product_compatible: Produits Compatibles
+    no: Non
+    yes: Oui
 
 helper:
     label:
