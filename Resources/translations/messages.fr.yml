@@ -291,6 +291,9 @@ label:
     yes: Oui
     tool: Tools
     sticker: Etiquette
+    codebar: Code barre
+    nameCaisse: Nom caisse
+    licence: Licence
 
 helper:
     label:
