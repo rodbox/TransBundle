@@ -289,6 +289,8 @@ label:
     product_compatible: Produits Compatibles
     no: Non
     yes: Oui
+    tool: Tools
+    sticker: Etiquette
 
 helper:
     label:
