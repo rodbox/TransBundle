@@ -1,4 +1,3 @@
-
 action:
     addCart: Ajouter au panier
     removeCart: Enlever du panier
@@ -133,7 +132,9 @@ msg:
     del: Supprimer ?
     subscribe: Inscrivez-vous
     discount: Réduction
+    text_404: La page n'existe pas...
 label:
+    home: Accueil
     verif: Vérification
     newsletter: Newsletter
     meta: Méta
