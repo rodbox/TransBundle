@@ -295,10 +295,10 @@ label:
     codebar: Code barre
     nameCaisse: Nom caisse
     licence: Licence
-    dir_upload: ''
-    dir_import: Importation
-    dir_media: Média
-    dir_user: Utilisateur
+    upload: ''
+    import: Importation
+    media: Média
+    user: Utilisateur
 
 
 helper:
