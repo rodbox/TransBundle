@@ -1,3 +1,4 @@
+alert: Alerte
 action:
     addCart: Ajouter au panier
     removeCart: Enlever du panier
@@ -299,6 +300,7 @@ label:
     import: Importation
     media: Média
     user: Utilisateur
+    spare_part: Pièces détachées
 
 
 helper:
@@ -590,6 +592,10 @@ route:
         title: Pièces détachées
     alert_form:
         title: Créer une alerte
+    admin_shopproduct_index:
+        title: Produits de ventes
+    stock_check:
+        title: Gestion des stocks
 
 menu:
     LCD: LCD
