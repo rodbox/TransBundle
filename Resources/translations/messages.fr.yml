@@ -68,6 +68,7 @@ action:
     confirm: Confirmer
     note: Noter
     write: Ecrire
+    refresh: Rafraichir
 msg:
     back_front: Retour à l'accueil
     link: Lien
