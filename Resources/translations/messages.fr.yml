@@ -302,6 +302,7 @@ label:
     media: Média
     user: Utilisateur
     spare_part: Pièces détachées
+    tmp: tmp
 
 
 helper:
@@ -597,6 +598,8 @@ route:
         title: Produits de ventes
     stock_check:
         title: Gestion des stocks
+    inbox:
+        title: Mails
 
 menu:
     LCD: LCD
