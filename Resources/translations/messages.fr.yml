@@ -138,6 +138,7 @@ msg:
     discount: Réduction
     text_404: La page n'existe pas...
 label:
+    quotation: Devis
     home: Accueil
     verif: Vérification
     newsletter: Newsletter
