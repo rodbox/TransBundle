@@ -2,6 +2,8 @@ alert: Alerte
 action:
     addCart: Ajouter au panier
     removeCart: Enlever du panier
+    addQuotation: Ajouter au devis
+    removeQuotation: Supprimer du devis
     edit: Editer
     back: Retour
     back: Retour
