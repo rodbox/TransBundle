@@ -71,6 +71,7 @@ action:
     note: Noter
     write: Ecrire
     refresh: Rafraichir
+    import: Importer
 msg:
     back_front: Retour à l'accueil
     link: Lien
