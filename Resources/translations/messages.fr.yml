@@ -307,6 +307,7 @@ label:
     user: Utilisateur
     spare_part: Pièces détachées
     tmp: tmp
+    setting: Paramètres
 
 
 helper:
