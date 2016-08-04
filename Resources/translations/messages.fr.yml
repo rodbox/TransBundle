@@ -271,9 +271,11 @@ label:
     invoice_detail: Coordonnées de facturation
     price_suggest: Prix suggérés
     photo: Photo
+    camera: Appareil photo
     img: Image
     source: Source
     Status: Status
+    barcode: Code barre
     Codebar: Code barre
     Datereturn: Date de retour
     Datevalid: Date de validation
