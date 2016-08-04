@@ -286,6 +286,8 @@ label:
     ram: RAM
     simdouble: Double SIM
     sd: Carte SD
+    microsd: microSD
+    cardmicrosd: Carte microSD
     4g: 4G
     gps: GPS
     wifi: WiFi
