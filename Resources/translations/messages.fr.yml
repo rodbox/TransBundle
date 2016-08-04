@@ -265,6 +265,7 @@ label:
     invoice_same_adress: Même adresse de facturation
     invoice_detail: Coordonée de facturation
     color: Couleur
+    color_s: Couleur(s)
     user: Utilisateur
     product: Produit
     invoice_detail: Coordonnées de facturation
