@@ -73,6 +73,14 @@ action:
     refresh: Rafraichir
     import: Importer
     contactus: Contactez-nous
+    wait: Patienter
+    subscribe: Inscrivez-vous
+    comfirm_del: Valider la Suppression ?
+    delete: Supprimer
+    del: Supprimer
+    update: Mettre à jour
+    upd: Mettre à jour
+
 msg:
     back_front: Retour à l'accueil
     link: Lien
@@ -102,7 +110,9 @@ msg:
     choose_model: Choisir mon modèle téléphone :
     choose_repair: Choisir ma réparation :
     choose_brand: Choisir la marque de mon téléphone :
-    message: message
+    message: Message
+    messages: Messages
+    message_s: Message(s)
     shoporder: Commandes
     social: Social
     register:
@@ -135,8 +145,6 @@ msg:
     setting: Paramètres
     forget_pw: Mot de passe oublier
     curl_me: Téléchargement Url
-    del: Supprimer ?
-    subscribe: Inscrivez-vous
     discount: Réduction
     text_404: La page n'existe pas...
 label:
@@ -255,7 +263,6 @@ label:
     to: à
     dateUpd: Mis à jour
     dateCreate: Création
-    color: Couleurs
     customer: Client
     country: Pays
     invoiceCountry: Pays de facturation
@@ -265,6 +272,7 @@ label:
     invoice_same_adress: Même adresse de facturation
     invoice_detail: Coordonée de facturation
     color: Couleur
+    colors: Couleurs
     color_s: Couleur(s)
     user: Utilisateur
     product: Produit
