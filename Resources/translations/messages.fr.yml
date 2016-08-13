@@ -325,6 +325,10 @@ label:
     shop: Boutique
     size: Taille
     screensize: Taille écran
+    difficult: Difficulté
+    delay: Délais
+    dispo: Disponibilité
+    detail: Détails
 
 
 
