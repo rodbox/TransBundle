@@ -148,6 +148,7 @@ msg:
     discount: Réduction
     text_404: La page n'existe pas...
 label:
+    sheet: Feuille
     quotation: Devis
     home: Accueil
     verif: Vérification
