@@ -632,6 +632,8 @@ route:
         title: Gestion des stocks
     inbox:
         title: Mails
+    trace_index:
+        title: Journal d'action
 
 menu:
     LCD: LCD
