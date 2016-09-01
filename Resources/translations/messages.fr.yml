@@ -80,6 +80,8 @@ action:
     del: Supprimer
     update: Mettre à jour
     upd: Mettre à jour
+    export: Exporter
+
 
 msg:
     back_front: Retour à l'accueil
@@ -330,7 +332,9 @@ label:
     delay: Délais
     dispo: Disponibilité
     detail: Détails
-
+    pa: Prix d'achat
+    type: Type
+    barcode: Code barre
 
 
 helper:
