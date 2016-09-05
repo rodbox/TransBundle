@@ -335,6 +335,9 @@ label:
     pa: Prix d'achat
     type: Type
     barcode: Code barre
+    datafrom: Depuis
+    datato: Jusqu'au
+
 
 
 helper:
