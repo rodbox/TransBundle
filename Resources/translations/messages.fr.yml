@@ -81,7 +81,11 @@ action:
     update: Mettre à jour
     upd: Mettre à jour
     export: Exporter
-
+    edit: Editer
+    show: Voir
+    write: Ecrire
+    
+    choose_gender: Choisisez votre genre
 
 msg:
     back_front: Retour à l'accueil
@@ -150,6 +154,7 @@ msg:
     discount: Réduction
     text_404: La page n'existe pas...
 label:
+    users: Utilisateurs
     sheet: Feuille
     quotation: Devis
     home: Accueil
@@ -337,7 +342,13 @@ label:
     barcode: Code barre
     datafrom: Depuis
     datato: Jusqu'au
-
+    male: Homme
+    female: Femme
+    sex: Sexe
+    gender: Sexe
+    no_info: -
+    item: Item
+    birthday: Date de naissance
 
 
 helper:
